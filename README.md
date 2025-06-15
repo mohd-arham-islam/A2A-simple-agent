@@ -29,7 +29,7 @@ source .venv/bin/activate  # Use `.venv\Scripts\activate` on Windows
 
 📦 Install Dependencies
 ```
-uv pip install -r requirements.txt
+uv sync
 ```
 
 3. Run the Agent Server
