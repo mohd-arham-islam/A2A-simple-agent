@@ -3,6 +3,9 @@ This repo demonstrates a minimal A2A (Agent-to-Agent) agent implementation using
 
 🧠 This is a great starting point if you're learning A2A and want to see how the low-level agent executor pattern works.
 
+![image](https://github.com/user-attachments/assets/3f915646-d23f-46a7-9fdb-a2f660b20776)
+
+
 🚀 Quick Start
 1. Clone the Repository
 ```
